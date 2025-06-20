@@ -73,4 +73,3 @@ Model performance is evaluated on:
 
 > Walter Reade & Elizabeth Park.  
 > *"Binary Prediction with a Rainfall Dataset"*, 2025.  
-> [Kaggle Competition Link](https://kaggle.com/competitions/playground-series-s5e3)
